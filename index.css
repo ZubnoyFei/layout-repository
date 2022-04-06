@@ -1,0 +1,66 @@
+
+
+.table {
+    display: table;
+    margin-right: 40px;
+
+}
+
+.menu {
+    display: inline-flex;
+    height: 50px;
+    font-weight: bold;
+    color: blue;
+    padding: 10px;
+    margin-top: -50px;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
+
+
+
+h1{
+    color: dodgerblue;
+    text-align:center;
+   top: 50px;
+}
+
+button{
+    background-color: navy;
+color: white;
+float: right;
+    display: inline-flex;
+    margin-top: -90px;
+    padding: 10px;
+}
+
+.introduce {
+   margin: 50px 0px 0px 70px;
+}
+
+.paragraph {
+    word-break: break-all;
+    margin: 50px 700px 0px 70px;
+
+}
+
+.button-purchase{
+float: left;
+    margin: 50px 0px 0px 70px;
+}
+
+.learn-more {
+    float: left;
+    margin: 50px 0px 0px 70px;
+    background-color: rgba(28,28,28,0);
+}
+
+.image {
+    height: 900px;
+    width: 900px;
+    float: right;
+    margin-top: -300px;
+opacity: 70%;
+}
